@@ -1,0 +1,13 @@
+fastapi==0.78.0
+uvicorn==0.17.6
+aerich==0.6.3
+tortoise-orm==0.19.1
+psycopg2==2.9.3
+asyncpg==0.25.0
+passlib==1.7.4
+pydantic[email]
+requests==2.28.0
+pytest==7.1.2
+pytest-mock==3.7.0
+httpx==0.23.0
+pytest-asyncio==0.18.3
